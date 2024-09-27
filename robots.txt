@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://hoprobca.github.io/sitemap.hoprobca.gz
+Sitemap: https://hoprobca.github.io/app/sitemap.hoprobca.gz
+Sitemap: https://hoprobca.github.io/assets/sitemap.hoprobca.gz
+Sitemap: https://hoprobca.github.io/css/sitemap.hoprobca.gz
+Sitemap: https://hoprobca.github.io/data/sitemap.hoprobca.gz
+Sitemap: https://hoprobca.github.io/includes/sitemap.hoprobca.gz
+Sitemap: https://hoprobca.github.io/item/sitemap.hoprobca.gz
+Sitemap: https://hoprobca.github.io/src/sitemap.hoprobca.gz
